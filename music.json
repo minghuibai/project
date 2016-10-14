@@ -1,0 +1,14 @@
+{
+	"data" : [
+		{
+			"name" : "下一秒",
+			"src" : "song/下一秒.mp3",
+			"lrc" : "song/下一秒.lrc"
+		},
+		{
+			"name" : "演员",
+			"src" : "song/演员.mp3",
+			"lrc" : "song/演员.lrc"
+		}
+	]
+}
